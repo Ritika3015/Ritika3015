@@ -25,6 +25,12 @@ I’m passionate about transforming raw data into actionable insights. With 4+ y
   
 ---
 
+<code><img height="20" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/SQL/SQL.png"></code>
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Python/Python.png"></code>
+<code><img height="20" alt="Power BI" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Power BI/Power BI.png"></code> 
+
+---
+
 ## 🌐 Connect With Me  
 - 💼 [LinkedIn]**(www.linkedin.com/in/ritika-vishwakarma-633r6)**
 - 📧 Reach me at **ritikavishwakarma.999@gmail.com**  

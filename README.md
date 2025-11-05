@@ -29,6 +29,8 @@ I’m passionate about transforming raw data into actionable insights. With 4+ y
 <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Python/Python.png"></code>
 <code><img height="20" alt="Power BI" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Power BI/Power BI.png"></code> 
 
+| <a href="https://github.com/ritikavishwakarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikavishwakarma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ritika's github stats" /></a> | <a href="https://github.com/ritikavishwakarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikavishwakarma&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 ---
 
 ## 🌐 Connect With Me  

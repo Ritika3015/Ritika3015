@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Ritika Vishwakarma (1)" src="https://github.com/user-attachments/assets/4f86b3e8-be61-4db7-b9ab-8a7d02c80143" />
+
 # Hi there, I'm Ritika 👋  
 
 🚀 **Data Analyst | Python | SQL | Machine Learning | Power BI | Advanced Excel**  
